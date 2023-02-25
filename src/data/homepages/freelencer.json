@@ -1,0 +1,428 @@
+{
+    "title": "freelencer-home",
+    "content": [
+        {
+            "id": "freelencer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Hi, I’m <span>Jone Lee</span><br><span class='span'> Software Engineer.</span>"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I'm the Front-End Developer for #Company in Bangladesh, OR. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-06.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "Download My CV"
+                },
+                {
+                    "id": 2,
+                    "path": "#contacts",
+                    "content": "Hire Me"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-about",
+            "section": "about-section",
+            "title": "About Me",
+            "texts": [
+                {
+                    "content": "Hi I am a Front-End developer & I can build your website as you want. I can customize plugin & wordpress theme. And I have two years of experience in figma. Now I am able to design your portfolio."
+                },
+                {
+                    "content": "I have three years of experience with HTML, CSS, JavaScript. And I can Design Your web application."
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-skill",
+            "section": "skill-section",
+            "title": "About My Skill",
+            "inner": [
+                {
+                    "id": "freelencer-home-skill-top",
+                    "title": "Primary Skills on",
+                    "items": [
+                        {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-01.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-02.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-03.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-04.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-05.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-06.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-07.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-08.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-09.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-10.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "freelencer-home-skill-right",
+                    "title": "Secondary Skills on",
+                    "items": [
+                        {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-11.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-12.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-13.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-14.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-15.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-16.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-17.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-18.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-19.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-20.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-services",
+            "section": "service-section",
+            "title": "My Services",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Business Stratagy",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Business Development",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "App Development",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile App Development",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-portfolio",
+            "section": "portfolio-section",
+            "title": "My Portfolio",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-blog",
+            "section": "blog-section",
+            "title": "My Blog"
+        },
+        {
+            "id": "freelencer-home-testimonial",
+            "section": "testimonial-section",
+            "title": "Testimonial",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "@Rafi",
+                    "designation": "Engineer",
+                    "description": "Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@Nipa",
+                    "designation": "Tech",
+                    "description": "Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "@Web",
+                    "designation": "know",
+                    "description": "Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-3.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

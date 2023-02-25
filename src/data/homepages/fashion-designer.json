@@ -1,0 +1,336 @@
+{
+    "title": "fashion-designer-home",
+    "content": [
+        {
+            "id": "fashion-designer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Kristina Somolyar"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Lorem ipsum, dolor sit amet consectetur"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-4.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "fashion-designer-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my portfolio & Hire me"
+            },
+            "texts": [
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati ius quasi doloribus illum minus fugit."
+                },
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit,"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-4.jpg"
+                }
+            ]
+        },
+        {
+            "id": "fashion-designer-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Portfolio",
+                "subtitle": "Visit my portfolio and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-14.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-15.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "fashion-designer-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Award I Have Achive",
+                "subtitle": "Visit my Award"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sumith Saha",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "John Due",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Janen Jara",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Jara Sultana",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Sr Deirector",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fashion-designer-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Nevine Acotanza",
+                    "subtitle": "Rainbow-Themes",
+                    "designation": "Chief Operating Officer",
+                    "projectTitle": "Android App Development",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fashion-designer-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "fashion-designer-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Nevine Acotanza"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}

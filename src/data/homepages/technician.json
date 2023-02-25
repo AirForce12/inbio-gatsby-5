@@ -1,0 +1,435 @@
+{
+    "title": "technician-home",
+    "content": [
+        {
+            "id": "technician-home-header-image",
+            "section": "header-image-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-9.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-bio",
+            "section": "bio-section",
+            "headings": [
+                {
+                    "content": "Md Alamin Bali"
+                },
+                {
+                    "content": "I am a Technician"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "example@gmail.com"
+                },
+                {
+                    "content": "+880123456789"
+                },
+                {
+                    "content": "20 August"
+                },
+                {
+                    "content": "Barisal, Bangladesh"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-10.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my portfolio & Hire me"
+            },
+            "texts": [
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Web Design Full stack"
+                },
+                {
+                    "id": 2,
+                    "title": "24/7 Support"
+                },
+                {
+                    "id": 3,
+                    "title": "Unlimited Revisions"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-2.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#!",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-service",
+            "section": "service-section",
+            "title": "What I am Doing",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Web Design Full stack",
+                    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore dolorum atque dicta distinctio mollitia fuga.",
+                    "icon": "Edit"
+                },
+                {
+                    "id": 2,
+                    "title": "Web Design",
+                    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore dolorum atque dicta distinctio mollitia fuga.",
+                    "icon": "Cast"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-client",
+            "section": "client-section",
+            "title": "Our trusted Clients",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Marth Smiths",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Marth Smiths",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Marth Smiths",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-resume",
+            "section": "resume-section",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-skill",
+            "section": "skill-section",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "PHOTOSHOT",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "FIGMA",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "ADOBE XD",
+                            "value": 60
+                        },
+                        {
+                            "id": 4,
+                            "title": "ADOBE ILLUSTRATOR",
+                            "value": 70
+                        },
+                        {
+                            "id": 5,
+                            "title": "DESIGN",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "Development Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "HTML",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "CSS",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "JAVASCRIPT",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "SOFTWARE",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "PLUGIN",
+                            "value": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-portfolio",
+            "section": "portfolio-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "technician-home-blog",
+            "section": "blog-section"
+        },
+        {
+            "id": "technician-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Nevine Acotanza"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,524 @@
+{
+    "title": "developer-home",
+    "content": [
+        {
+            "id": "developer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Hi, I’m <span>InBio</span>"
+                },
+                {
+                    "content": "Download my curriculum vitae:"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Web designer and developer working for envato.com in Paris, France."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Web designer & developer",
+                    "icon": "File"
+                },
+                {
+                    "id": 2,
+                    "title": "john.slady@gmail.com",
+                    "icon": "Mail"
+                },
+                {
+                    "id": 3,
+                    "title": "Paris fan",
+                    "icon": "MapPin"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "DOWNLOAD CV"
+                },
+                {
+                    "id": 2,
+                    "path": "#contacts",
+                    "content": "CONTACT ME"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-02.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "developer-home-experience",
+            "section": "experience-section",
+            "section_title": {
+                "title": "My Experience",
+                "subtitle": "Over 10 years of experience"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Rainbow - Themes.",
+                    "subtitle": "Co-Founder, Web Designer & Developer",
+                    "description": "Reinvetning the way you create websites",
+                    "timeRange": "2015-Present",
+                    "path": "#contacts",
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "App Development.",
+                    "subtitle": "Co-Founder, Web Designer & Developer",
+                    "description": "Reinvetning the way you create websites",
+                    "timeRange": "2018-Present",
+                    "path": "#contacts",
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Application Management.",
+                    "subtitle": "Co-Founder, Web Designer & Developer",
+                    "description": "Reinvetning the way you create websites",
+                    "timeRange": "2020-Present",
+                    "path": "#contacts",
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-education",
+            "section": "education-section",
+            "section_title": {
+                "title": "Education",
+                "subtitle": "Phd, Master and Bachelor"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Software Develop.",
+                    "subtitle": "Co-Founder, Web Designer & Developer",
+                    "description": "Reinvetning the way you create websites",
+                    "timeRange": "2015-Present",
+                    "path": "#contacts",
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Web Design.",
+                    "subtitle": "Co-Founder, Web Designer & Developer",
+                    "description": "Reinvetning the way you create websites",
+                    "timeRange": "2018-Present",
+                    "path": "#contacts",
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "7+ Years of Experience"
+            }
+        },
+        {
+            "id": "developer-home-education",
+            "section": "education-resume-section",
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-skill",
+            "section": "skill-resume-section",
+            "title": "professional Skills",
+            "inner": [
+                {
+                    "id": "developer-home-skill-left",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "PHOTOSHOT",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "FIGMA",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "ADOBE XD",
+                            "value": 60
+                        },
+                        {
+                            "id": 4,
+                            "title": "ADOBE ILLUSTRATOR",
+                            "value": 70
+                        },
+                        {
+                            "id": 5,
+                            "title": "DESIGN",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "id": "developer-home-skill-right",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "HTML",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "CSS",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "JAVASCRIPT",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "SOFTWARE",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "PLUGIN",
+                            "value": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-experience",
+            "section": "experience-resume-section",
+            "title": "experience",
+            "inner": [
+                {
+                    "id": "developer-home-experience-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "developer-home-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-interview",
+            "section": "interview-resume-section",
+            "title": "interview",
+            "inner": [
+                {
+                    "id": "developer-home-experience-left",
+                    "section_title": {
+                        "title": "Company Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "developer-home-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "developer-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Portfolio",
+                "subtitle": "Visit my portfolio and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "PHOTOSHOP",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 650
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Web app Responsive design & Services",
+                    "category": "Laravel",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "PHP with app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                }
+            ]
+        },
+        {
+            "id": "developer-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+{
+    "title": "photographer-home",
+    "content": [
+        {
+            "id": "photographer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Hi, I’m <span>Zarin Nes</span><br/> <span class='span'>Photographer</span>"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I design and code beautifully simple things, and I love what I do. I use animation as a third dimension by which Lorem ipsum dolor sit amet consectetur adipisicing. "
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-1.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my portfolio & Hire me"
+            },
+            "texts": [
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati ius quasi doloribus illum minus fugit."
+                },
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit,"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-2.png"
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-skills",
+            "section": "skill-section",
+            "section_title": {
+                "title": "My Skill",
+                "subtitle": "Visit my skill & Hire me"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "ReactJs",
+                    "images": [
+                        {
+                            "src": "../images/icons/react.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Figma",
+                    "images": [
+                        {
+                            "src": "../images/icons/figma.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "XD",
+                    "images": [
+                        {
+                            "src": "../images/icons/xd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "PS",
+                    "images": [
+                        {
+                            "src": "../images/icons/photoshop.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "vueJS",
+                    "images": [
+                        {
+                            "src": "../images/icons/vuejs.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "js",
+                    "images": [
+                        {
+                            "src": "../images/icons/js.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "angularJS",
+                    "images": [
+                        {
+                            "src": "../images/icons/angularjs.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Business Stratagy",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "App Development",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "App Development",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Tv",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Best Work",
+                "subtitle": "Look My project & JUDGE"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provice for Design",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "stringList": [
+                        "Responsive design",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "The services provice for Development",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Device maintain",
+                        "Theme builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "The services provice for Android user",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Customer satisfaction",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Award I Have Achieve",
+                "subtitle": "Visit my Award"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sumith Saha",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "John Due",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Janen Jara",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Jara Sultana",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Sr Deirector",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "@alamin",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@mr_rasel",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@Kabir",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "@Tuhin",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "photographer-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "texts": [
+                {
+                    "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+                },
+                {
+                    "content": "Get the bundle and get lifetime support and one year updates."
+                }
+            ],
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "title": "static",
+                    "subtitle": "4 WEEK TRAINING – 30 MIN/DAY",
+                    "is_featured": false,
+                    "price": "$30",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": false
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": false
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": false
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-join",
+                    "title": "JOIN NOW",
+                    "subtitle": "4 WEEK TRAINING – 50 MIN/DAY",
+                    "is_featured": false,
+                    "price": "$50",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                }
+            ]
+        },
+        {
+            "id": "default-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "photographer-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Nevine Acotanza"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}

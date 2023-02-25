@@ -1,0 +1,309 @@
+{
+    "title": "model-home",
+    "content": [
+        {
+            "id": "model-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "KRISTINA SOMOLYER"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "American Supermodel & Entrepreneur"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-12.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "model-home-services",
+            "section": "service-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Business Stratagy",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "App Development",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "App Development",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Tv",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "model-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my portfolio & Hire me"
+            },
+            "texts": [
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati ius quasi doloribus illum minus fugit."
+                },
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit,"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-5.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-8.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Portfolio",
+                "subtitle": "Visit my portfolio and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-14.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-15.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "model-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Award I Have Achieve",
+                "subtitle": "Visit my Award"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sumith Saha",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "John Due",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Janen Jara",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Jara Sultana",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Sr Deirector",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "model-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Nevine Acotanza"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "title": "designer-home-two",
+    "content": [
+        {
+            "id": "designer-home-two-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Webdesigner"
+                },
+                {
+                    "content": "& Photographer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "👋 my name is Inbio & I am a freelance"
+                },
+                {
+                    "content": "based in Nevada, USA ❤️"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-11.png",
+                    "alt": "Personal Portfolio Images"
+                },
+                {
+                    "src": "../images/client/client-logos.png",
+                    "alt": "client logos"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Latest Design",
+                "subtitle": "GRAPHIC DESIGNER, WEBDESIGNER & WEBFLOW EXPERT"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Let's start a project together",
+                    "path": "#contact",
+                    "className": "rounded-pill"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-photography",
+            "section": "photography-section",
+            "section_title": {
+                "title": "My Latest Photography",
+                "subtitle": "GRAPHIC DESIGNER, WEBDESIGNER & WEBFLOW EXPERT"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-14.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-15.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Let's start a project together",
+                    "path": "#contact",
+                    "className": "rounded-pill"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-awards",
+            "section": "awards-section",
+            "section_title": {
+                "title": "⭐ My award & achievement ⭐"
+            },
+            "images": [
+                {
+                    "src": "../images/others/awards.png",
+                    "alt": "awards"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-14.jpg"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "Pricing 🚀",
+                "subtitle": "Pricing"
+            },
+            "texts": [
+                {
+                    "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+                },
+                {
+                    "content": "Get the bundle and get lifetime support and one year updates."
+                }
+            ],
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "title": "STARTER",
+                    "subtitle": "TRY AND DECIDE.",
+                    "is_featured": false,
+                    "price": "$0",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": false
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": false
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": false
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-join",
+                    "title": "BUNDLE",
+                    "subtitle": "TRY AND DECIDE.",
+                    "is_featured": false,
+                    "price": "$60",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "My Trusted Client",
+                "subtitle": "Visit my Client"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sumith Saha",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "John Due",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Janen Jara",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Jara Sultana",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Sr Deirector",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "designer-home-two-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Hire Me 🚣",
+                "subtitle": "Let's meet!"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/lets-meet.jpg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Jone Kartik"
+                },
+                {
+                    "content": "CDesigner & Photographer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via call in to my account."
+                }
+            ]
+        }
+    ]
+}
